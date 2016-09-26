@@ -3,6 +3,10 @@ A board screen for terminals
 
 ## Notes 
 
+
+A flight information display system (FIDS)
+
+
 I am planning a fifteen entry per screen, with the following fields :
 Company, Destination, Time, Gate (Plataforma / Andene),  Status (delays) . 
 ,
